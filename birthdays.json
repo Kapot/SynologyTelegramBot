@@ -1,0 +1,19 @@
+{
+  "Family": {
+    "John Doe": "15-05-1980",
+    "Jane Doe": "22-09-1982",
+    "Little Tim": "03-12-2015"
+  },
+  "Friends": {
+    "Alice Smith": "10-01-1985",
+    "Bob Johnson": "28-07-1983",
+    "Charlie Brown": "14-02-1990"
+  },
+  "Colleagues": {
+    "Emma Wilson": "19-11-1988",
+    "David Lee": "07-04-1979"
+  },
+  "Others": {
+    "Neighbor Tom": "30-08-1975"
+  }
+}
